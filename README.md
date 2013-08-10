@@ -1,4 +1,4 @@
-# cmdify [![Build Status](https://secure.travis-ci.org/danielchatfield/cmdify.png?branch=master)](http://travis-ci.org/danielchatfield/cmdify)
+# cmdify [![Build Status](https://secure.travis-ci.org/danielchatfield/node-cmdify.png?branch=master)](http://travis-ci.org/danielchatfield/node-cmdify)
 
 A small utility to help make spawning cross platform.
 
