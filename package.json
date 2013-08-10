@@ -1,6 +1,6 @@
 {
   "name": "cmdify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small utility to help make spawning cross platform.",
   "homepage": "https://github.com/danielchatfield/node-cmdify",
   "bugs": "https://github.com/danielchatfield/cmdify/issues",
